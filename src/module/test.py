@@ -1,7 +1,7 @@
 #encoding: utf-8
 import module1
-import module2
+from module2 import say_hello
 module1.say_hello()
-module2.say_hello()
+say_hello()
 
 print(module1.Student())
