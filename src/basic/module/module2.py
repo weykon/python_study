@@ -1,4 +1,4 @@
-#encoding=utf-8
+#encoding: utf-8
 title = '旺财模块02'
 
 
